@@ -1,1 +1,1 @@
-# wk6-wbeAPI-quiz
+# wk6-webAPI-quiz
