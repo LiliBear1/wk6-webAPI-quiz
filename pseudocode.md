@@ -1,6 +1,6 @@
-# Module 6 Challenge Web APIs: Code Quiz
+# Module 6 Challenge Web APIs Plan: Code Quiz
 
-## Your Task
+## Task
 
 Build a timed coding quiz 
 With multiple-choice questions
@@ -19,24 +19,31 @@ SO THAT I can gauge my progress compared to my peers
 Create a code quiz that contains the following requirements:
 
   A start button
-  * When clicked a timer starts and the first question appears.
+  * When clicked a timer starts and the first question appears
+    // Look back at timer and countdown exercise this week
   * Questions contain buttons for each answer.
+    // Look back at JS questions module
   * When answer is clicked, the next question appears.
+    // Consider audio sound for correct being added here, MDN doc on Ausio APIs
 
   * If the answer clicked was incorrect 
+     // Consider audio sound for incorrect being added here, MDN doc on Ausio APIs
   * Then subtract time from the clock
+    // Link this in with the timer functionalit
   
   The quiz should end when: 
   * All questions are answered or;
   * The timer reaches 0.
+    // Question logic and timer functionality here
 
   When the game ends:
   * It should display their score
   * Give the user the ability to
-  * Save their initials and
-  * Save their score
+    * Save their initials and
+    * Save their score 
+    // Local storage DOM, retain the score, prevent default
   
-Other notes
+Notes
 * Consider sound files for incorrect and correct 
 * Javascript to add in
     /assets/js/logic.js (INDEX)
@@ -61,7 +68,7 @@ The following animation demonstrates the application functionality:
 
 * Application GitHub URL submitted.
 
-* GitHub repository that contains application code - DONE
+* GitHub repository that contains application code
 
 ### Application Quality: 15%
 
@@ -92,5 +99,3 @@ You are required to submit BOTH of the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
----
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
