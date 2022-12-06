@@ -1,6 +1,10 @@
 // Variables
 
-// Questions 
+var startPage = document.querySelector("#start-screen");
+var startBtn = document.querySelector("");
+
+
+// Questions - move to questions.js 
 
 // Timer 
 
