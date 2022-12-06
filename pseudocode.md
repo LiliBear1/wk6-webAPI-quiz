@@ -47,7 +47,7 @@ Notes
 * Consider sound files for incorrect and correct 
 * Javascript to add in
     /assets/js/logic.js (INDEX)
-    /assets/js/questions.js (HIGHSCORES)
+    /assets/js/questions.js (INDEX)
     /assets/js/scores.js (HIGHSCORES)
 
 ## Mock-Up
