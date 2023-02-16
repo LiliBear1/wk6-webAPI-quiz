@@ -30,13 +30,19 @@ This website is to display advanced JavaScript Skills. When the user clicks the 
 
 I started off strong with my Questions file, representing each question as an object in an array. I then created a Scores and Logic file which would tie everything together and display the scores.
 
-!["Demo of quiz in action"](/assets/images/.png)
+!["Demo of quiz in action"](/assets/images/DemoQuiz.gif)
+
+There is also additional functionality so the user can view the highscore board and clear the scores.
+
+!["Demo of clearing scores"](/assets/images/ClearingScores.gif)
 
 ## Additional notes
 
-I used a combination of objects, arrays, functions, for loops, while and if statements as well as learnt how to call and return functions as well as various operators.
+I used a combination of objects, arrays, functions, for loops, each and if statements as well as learnt how to call and return functions as well as various operators.
 
-The biggest challenge I faced was the Logic page as this was the most detailed one, I got hit by data fatigue and would have got bogged down with uncaught syntax errors due to staring at a page of code too long, there is a large amount of information on the internet which can become overwhelming, therefore I did my commits frequently, stepped away and worked on other sections and then came back.
+The biggest challenge I faced was the Logic page as this was the most detailed one, I got hit by data fatigue and would have got bogged down with uncaught syntax errors due to staring at a page of code too long, there is a large amount of information on the internet which can become overwhelming, therefore I did my commits frequently, stepped away and worked on other sections and then came back. In the end, I got my logic working. 
+
+The only other improvement I would probably include is adjusting the highscore board logic so it would show the scores in descending order so you would get more of a leaderboard.
 
 ## Credits 
 2022 Trilogy Education Services, LLC
