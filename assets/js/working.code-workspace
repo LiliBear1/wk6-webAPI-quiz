@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../Desktop/deploy-react-fun"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "working"
+	}
+}
